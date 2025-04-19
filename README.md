@@ -12,7 +12,8 @@ Dogs Vs Cats - A deep learning project that classifies images of dogs and cats u
 
 - Visualized training progress using Matplotlib.
 
-  ### Tech Stack:
+ 
+### Tech Stack:
 - Python
 
 - TensorFlow & Keras
